@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.f15d284d.js",
-    "index.html": "/index.html",
-    "main.f15d284d.js.map": "/static/js/main.f15d284d.js.map"
+    "main.js": "/Itransition-React-Frontend/static/js/main.d440c696.js",
+    "index.html": "/Itransition-React-Frontend/index.html",
+    "main.d440c696.js.map": "/Itransition-React-Frontend/static/js/main.d440c696.js.map"
   },
   "entrypoints": [
-    "static/js/main.f15d284d.js"
+    "static/js/main.d440c696.js"
   ]
 }
